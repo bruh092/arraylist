@@ -1,4 +1,4 @@
-package code2;
+package code2; //file convert
 import java.util.ArrayList;
 
 public class west{
@@ -6,11 +6,11 @@ public class west{
 
         ArrayList<String> member = new ArrayList<String>();
 
-        member.add("Kadraa");
-        member.add("Logix");
-        member.add("Bruh123");
+        member.add("Kadraa");//list
+        member.add("Logix");//list
+        member.add("Bruh123");//list
 
-        //member.set(0,"alpha");
+        //member.set(0,"alpha"); //remove // if you want 
         //member.remove(2);
         //member.remove(1);
         //member.clear();
